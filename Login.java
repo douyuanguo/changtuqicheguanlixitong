@@ -27,7 +27,7 @@ public class Login extends JFrame implements ActionListener
 	UserLogin userlogin=null;
 	public Login()
 	{
-		this.setSize(600,600);
+		//this.setSize(600,600);
 		this.setTitle("长途汽车管理系统管理员登陆界面");
 		this.setVisible(true);
 		this.setLayout(null);
